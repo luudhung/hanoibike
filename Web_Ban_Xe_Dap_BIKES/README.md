@@ -1,7 +1,7 @@
 ---
-# CLOTHES-WEB-ASP-MVC
+# WEBSITE XE DAP BY HUNG
 ---
-* Member : Ngoc Phu , Duy Khang 
+* Member : LUU DINH HUNG
 * Description : Project use JQUERY,ASP-MVC 
 ## CONFIG 
 *  1.IMPORT DATA SQL SERVER
