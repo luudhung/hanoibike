@@ -3,4 +3,4 @@
 ---
 * Member : LUU DINH HUNG
 * Description : Project use JQUERY,ASP-MVC 
-jquery.js
+navbar.js
