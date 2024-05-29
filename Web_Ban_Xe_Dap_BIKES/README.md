@@ -3,4 +3,4 @@
 ---
 * Member : LUU DINH HUNG
 * Description : Project use JQUERY,ASP-MVC 
-login.html
+register.html
