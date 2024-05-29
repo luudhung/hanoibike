@@ -3,4 +3,4 @@
 ---
 * Member : LUU DINH HUNG
 * Description : Project use JQUERY,ASP-MVC 
-privacy.html
+404.html
