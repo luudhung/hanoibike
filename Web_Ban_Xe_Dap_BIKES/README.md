@@ -3,4 +3,4 @@
 ---
 * Member : LUU DINH HUNG
 * Description : Project use JQUERY,ASP-MVC 
-navbar.js
+carousel.js
